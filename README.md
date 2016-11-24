@@ -1,5 +1,7 @@
 # WebAudio Hack Day at DevFest.Asia 2016.
 
+[![Join the chat at https://gitter.im/notthetup/webaudiohackday-2016](https://badges.gitter.im/notthetup/webaudiohackday-2016.svg)](https://gitter.im/notthetup/webaudiohackday-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Announcements
 
 
